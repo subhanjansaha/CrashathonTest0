@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrashathonTest</string>
+    <string name="product_transition" translatable="false">productTransition</string>
+</resources>
